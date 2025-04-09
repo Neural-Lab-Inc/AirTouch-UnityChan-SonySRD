@@ -1,0 +1,7 @@
+{
+  "name": "jp.co.sony.srd",
+  "displayName": "SRDisplay Unity Plugin",
+  "version": "2.0.0",
+  "unity": "2020.3",
+  "description": "Plugin for Spatial Reality Display"
+}
