@@ -26,8 +26,7 @@ models, motion data, scripts, materials, music and so on),
 are made public under the terms of the “Unity-Chan License.”
 
 In particular, please pay attention to the “Character
-Guidelines” available at
-　　　http://unity-chan.com/download/guideline_en.html
+Guidelines” available at http://unity-chan.com/download/guideline_en.html
 
 You can always find the latest “Unity-Chan License” at:
 http://unity-chan.com/download/license_en.html
@@ -37,8 +36,7 @@ http://unity-chan.com/download/license_sum_en.html
 
 When redistributing this project, along with any changes or 
 improvements, refer to the “Unity-Chan License Notice” at
-http://unity-chan.com/download/license_sig_en.html
-　　　to ensure you display the Unity-Chan logo appropriately. 
+http://unity-chan.com/download/license_sig_en.html to ensure you display the Unity-Chan logo appropriately. 
 
 ## About the included music:
 This project includes the following songs from the CD 
